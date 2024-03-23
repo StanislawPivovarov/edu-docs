@@ -1,0 +1,59 @@
+.header {
+ padding: 40px 0px 40px 30px;
+ position: relative;
+ border-radius: 24px 24px 0 0;
+}
+
+.header_img {
+ position: absolute;
+ right: 0;
+ top: -15px;
+}
+
+.header_text {
+ font-size: 32px;
+ color: #fff;
+}
+
+.wrapper {
+ border-radius: 40px;
+ margin: 0 auto;
+ min-height: 300px;
+}
+
+.body {
+ border-radius: 0 0 24px 24px;
+ display: flex;
+ flex-direction: column;
+ justify-content: space-between;
+ height: 100%;
+}
+
+.list {
+ color: #fff;
+ font-size: 21px;
+ font-family: "Raleway", sans-serif;
+
+ & li {
+  padding-top: 20px;
+ }
+}
+
+.price {
+ color: #fff;
+ font-size: 24px;
+ margin-left: 30px;
+}
+
+.buy {
+ width: 80%;
+ display: block ;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 20px;
+ margin-bottom: 20px;
+ height: 50px;
+ color: #253E64;
+ font-size: 24px;
+ border-radius: 40px;
+}

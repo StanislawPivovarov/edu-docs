@@ -1,0 +1,19 @@
+
+.wrapper {
+ height: max-content;
+ padding: 120px 0 120px 0;
+ margin-bottom: 120px;
+}
+
+.header {
+ margin-bottom: 40px;
+ text-align: center;
+ font-size: 42px;
+ color: #253E64;
+}
+
+.tariffs {
+ display: grid;
+ grid-template-columns: auto auto auto;
+ column-gap: 40px;
+}
