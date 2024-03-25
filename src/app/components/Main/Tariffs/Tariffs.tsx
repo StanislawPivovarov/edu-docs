@@ -45,7 +45,7 @@ const Tariffs = () => {
      <Price
      position={2}
      advantages={adv2}
-     text={"Страртный "}
+     text={"Стандартный "}
      bodyColor={"rgba(52, 73, 85, 0.5)"}
      headerColor={"#344955"}
      price={'15 000'}
